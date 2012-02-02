@@ -12,12 +12,19 @@ h1 {
 	font-family: "century gothic";
 	color: #e22828;
 	text-align: center;
-	background-color: #ffffff;
+	background-color: #edece8;
 }
 
 h2 {
 	font-family: "century gothic", Arial, Times;
 	text-align: center;
+	color: #edece8;
+}
+
+h3 {
+	font-family: "century gothic", Arial, Times;
+	text-align: center;
+	color: #edece8;
 }
 
 body {
@@ -27,35 +34,35 @@ body {
 
 label { 
 	font-family: "century gothic", Arial, Times;
-	color: #ffffff;
+	color: #edece8;
 }
 
 li {
 	display: block;
 	font-family: "century gothic", Arial, Times;
-	color: #ffffff;
+	color: #edece8;
 }
 
 p {
 	font-family: "century gothic", Arial, Times;
-	color: #ffffff;
+	color: #edece8;
 	text-align: center;
 	letter-spacing: ;
 }
 
 legend {
 	font-family: "century gothic", Arial, Times;
-	color: #ffffff;
+	color: #edece8;
 	font-weight: bold
 }
 
-a:hover {color: #ffffff; outline: none;}
-a:link {color: #ffffff; outline: none;}
-a:visited {color: #ffffff; outline: none;}
+a:hover {color: #edece8; outline: none;}
+a:link {color: #edece8; outline: none;}
+a:visited {color: #edece8; outline: none;}
 
 nav{ 
 	padding: 5px;
-	outline: 1px dashed #ffffff;
+	outline: 1px dashed #edece8;
 	background-color: #e22828;
 	font-family: "century gothic", Arial, Times;
 	text-align: center;

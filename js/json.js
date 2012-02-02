@@ -79,7 +79,7 @@ var json = {
 		"store":["Store Name:","Best Buy"],
 		"url":["Product Url:",""],
 		"date":["Date Added:","2011-11-30"]
-		}
+		},
 		"gift10": {
 		"category":["Category:", "Apparel"], 
 		"comments":["Gift Description:", "Jeans"],
@@ -88,7 +88,7 @@ var json = {
 		"store":["Store Name:","Delias"],
 		"url":["Product Url:","delias.com"],
 		"date":["Date Added:","2011-11-30"]
-		}
+		},
 		"gift11": {
 		"category":["Category:", "Etc"], 
 		"comments":["Gift Description:", "iTunes Gift Cards"],
@@ -97,7 +97,7 @@ var json = {
 		"store":["Store Name:","Tom Thumb or Apple Store"],
 		"url":["Product Url:",""],
 		"date":["Date Added:","2011-11-26"]
-		}
+		},
 		"gift12": {
 		"category":["Category:", "Music"], 
 		"comments":["Gift Description:", "The Very Best of Nat King Cole CD"],
@@ -106,16 +106,16 @@ var json = {
 		"store":["Store Name:","Amazon"],
 		"url":["Product Url:","amazon.com"],
 		"date":["Date Added:","2011-12-04"]
-		}
+		},
 		"gift13": {
-		"category":["Category:", "Electronic"], 
+		"category":["Category:", "Electronics"], 
 		"comments":["Gift Description:", "Keurig Single Cup Coffee Maker"],
 		"amount":["Quantity:","1"],
 		"location":["Where To Buy:","Online"],
 		"store":["Store Name:","Keurig.com"],
 		"url":["Product Url:","www.keurig.com"],
 		"date":["Date Added:","2011-11-15"]
-		}
+		},
 		"gift14": {
 		"category":["Category:", "Etc"], 
 		"comments":["Gift Description:", "Green Tea single servings for Keurig"],
@@ -124,7 +124,7 @@ var json = {
 		"store":["Store Name:","Keurig.com"],
 		"url":["Product Url:","www.keurig.com"],
 		"date":["Date Added:","2011-11-15"]
-		}
+		},
 		"gift15": {
 		"category":["Category:", "Etc"], 
 		"comments":["Gift Description:", "IKEA gift card"],
@@ -133,7 +133,7 @@ var json = {
 		"store":["Store Name:","IKEA"],
 		"url":["Product Url:","ikea.com"],
 		"date":["Date Added:","2011-11-19"]
-		}
+		},
 		"gift16": {
 		"category":["Category:", "Etc"], 
 		"comments":["Gift Description:", "French Bulldog Puppy"],
@@ -142,7 +142,7 @@ var json = {
 		"store":["Store Name:","Petco"],
 		"url":["Product Url:",""],
 		"date":["Date Added:","2011-12-14"]
-		}
+		},
 		"gift17": {
 		"category":["Category:", "Apparel"], 
 		"comments":["Gift Description:", "Toms Shoes - Gray"],
@@ -151,7 +151,7 @@ var json = {
 		"store":["Store Name:","Toms"],
 		"url":["Product Url:","www.toms.com"],
 		"date":["Date Added:","2011-11-03"]
-		}
+		},
 		"gift18": {
 		"category":["Category:", "Apparel"], 
 		"comments":["Gift Description:", "Sleeveless Maxi Dress- one black and one blue"],
@@ -160,7 +160,7 @@ var json = {
 		"store":["Store Name:","Forever 21"],
 		"url":["Product Url:","forever21.com"],
 		"date":["Date Added:","2011-11-08"]
-		}
+		},
 		"gift19": {
 		"category":["Category:", "Entertainment"], 
 		"comments":["Gift Description:", "Justified Season 2"],
@@ -169,7 +169,7 @@ var json = {
 		"store":["Store Name:","Delias"],
 		"url":["Product Url:","delias.com"],
 		"date":["Date Added:","2011-11-30"]
-		}
+		},
 		"gift20": {
 		"category":["Category:", "Etc"], 
 		"comments":["Gift Description:", "Patron Tequlia"],
@@ -178,6 +178,6 @@ var json = {
 		"store":["Store Name:","Liquor store"],
 		"url":["Product Url:",""],
 		"date":["Date Added:","2011-11-30"]
-		}
+		},
 	}
 
