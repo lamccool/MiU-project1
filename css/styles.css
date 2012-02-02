@@ -5,7 +5,7 @@ for: CSS Selectors
 */
 
 h1 {
-	margin-top: 20px;
+    margin-top: 20px;
 	margin-bottom: 10px;
 	padding: 5px;
 	border: 2px dashed #e22828;
@@ -62,7 +62,10 @@ a:link {color: #ffffff; outline: none;}
 a:visited {color: #ffffff; outline: none;}
 
 nav{ 
-	padding: 5px;
+	padding-top: 5px;
+	padding-bottom: 1px;
+	padding-left: 5px;
+	padding-right: 5px;
 	outline: 1px dashed #ffffff;
 	background-color: #e22828;
 	font-family: "century gothic", Arial, Times;
@@ -71,4 +74,13 @@ nav{
 	font-weight: bold;
 	
 }
-
+nav1{ 
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	font-family: "century gothic", Arial, Times;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
