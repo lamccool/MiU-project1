@@ -9,22 +9,22 @@ h1 {
 	margin-bottom: 10px;
 	padding: 5px;
 	border: 2px dashed #e22828;
-	font-family: "century gothic";
+	font-family: "century gothic", Arial, Times;;
 	color: #e22828;
 	text-align: center;
-	background-color: #edece8;
+	background-color: #ffffff;
 }
 
 h2 {
 	font-family: "century gothic", Arial, Times;
 	text-align: center;
-	color: #edece8;
+	color: #ffffff;
 }
 
 h3 {
 	font-family: "century gothic", Arial, Times;
 	text-align: center;
-	color: #edece8;
+	color: #ffffff;
 }
 
 body {
@@ -34,35 +34,36 @@ body {
 
 label { 
 	font-family: "century gothic", Arial, Times;
-	color: #edece8;
+	color: #ffffff;
 }
 
 li {
 	display: block;
 	font-family: "century gothic", Arial, Times;
-	color: #edece8;
+	color: #ffffff;
 }
 
 p {
 	font-family: "century gothic", Arial, Times;
-	color: #edece8;
+	color: #ffffff;
 	text-align: center;
 	letter-spacing: ;
+	font-weight: bold
 }
 
 legend {
 	font-family: "century gothic", Arial, Times;
-	color: #edece8;
+	color: #ffffff;
 	font-weight: bold
 }
 
-a:hover {color: #edece8; outline: none;}
-a:link {color: #edece8; outline: none;}
-a:visited {color: #edece8; outline: none;}
+a:hover {color: #ffffff; outline: none;}
+a:link {color: #ffffff; outline: none;}
+a:visited {color: #ffffff; outline: none;}
 
 nav{ 
 	padding: 5px;
-	outline: 1px dashed #edece8;
+	outline: 1px dashed #ffffff;
 	background-color: #e22828;
 	font-family: "century gothic", Arial, Times;
 	text-align: center;
